@@ -6,7 +6,7 @@ This repository contains an implementation of **Bayesian Ridge Regression** for 
 
 ## Features
 - Leverages Bayesian Ridge Regression.
-- Incorporates molecular descriptors and circular fingerprints for enhanced feature representation.
+- Incorporates molecular descriptors along with ChemBERTa's pre-trained representations.
 
 ---
 
